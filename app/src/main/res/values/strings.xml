@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">WWYMusicPlayer</string>
+    <string name="login_with_phone">手机号登录</string>
+    <string name="register">注册</string>
+
+</resources>
